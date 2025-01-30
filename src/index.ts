@@ -37,7 +37,7 @@ app.get('/', (req: Request, res: Response) => {
   const response = {
     email: 'ezekieluduak2@gmail.com', 
     current_datetime: new Date().toISOString(), 
-    github_url: 'https://github.com/yourusername/your-repo',
+    github_url: 'https://github.com/zickycodes/hng-stage0-node',
   };
   res.status(200).json(response);
 });
