@@ -15,7 +15,7 @@ This is a public API developed for the HNG Stage 0 Backend Task. It returns basi
 {
   "email": "your-email@example.com",
   "current_datetime": "2024-10-05T12:34:56.789Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/zickycodes/hng-stage0-node"
 }
 
 
